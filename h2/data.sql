@@ -3,7 +3,7 @@ INSERT INTO vets VALUES (default, 'Helen', 'Leary');
 INSERT INTO vets VALUES (default, 'Linda', 'Douglas');
 INSERT INTO vets VALUES (default, 'Rafael', 'Ortega');
 INSERT INTO vets VALUES (default, 'Henry', 'Stevens');
-INSERT INTO vets VALUES (default, 'Sharon', 'Jenkins');
+INSERT INTO vets VALUES (default, 'Sharonon', 'Jenkins');
 
 INSERT INTO specialties VALUES (default, 'radiology');
 INSERT INTO specialties VALUES (default, 'surgery');
